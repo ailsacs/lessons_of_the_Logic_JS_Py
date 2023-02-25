@@ -1,4 +1,4 @@
-# lessons_of_the_Logic_JS_Py
+# lessons_of_the_logic_JS_Py
 Thats my studies for beginning in programing, look has verything funny!
 
 About one year I wish beginni in IT, I studed three hours to day, read, listening & write code and logic, the universe of the IT.
